@@ -1,0 +1,3 @@
+Developement Branch Data - Only a DEV LEAD can Merge the Feature with DEV Branch
+
+Feaure branch developers alwayas have to create a pull request
